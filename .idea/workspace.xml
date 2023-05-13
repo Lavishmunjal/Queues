@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0580522d-6009-4d5d-b35e-fa916efb633e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queues.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lavish/QueuesRevision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lavish/Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lavish/StackusingLL.java" afterDir="false" />
+    <list default="true" id="0580522d-6009-4d5d-b35e-fa916efb633e" name="Changes" comment="Hello">
+      <change afterPath="$PROJECT_DIR$/src/com/lavish/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lavish/QueueusingStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lavish/StackQuestions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lavish/prr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplejavacalculator/calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +126,19 @@
       <option name="presentableId" value="Default" />
       <updated>1676656347369</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello">
+      <created>1683952006419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683952006419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
